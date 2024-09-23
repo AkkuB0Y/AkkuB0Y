@@ -9,7 +9,7 @@
 
 - 👨‍💻 Check out my website [here](https://akshaysatish.vercel.app)
 
-- 📫 Reach me through **[email](asatish@uwaterloo.ca)** or **[LinkedIn](https://www.linkedin.com/in/akshaysatish26205/)
+- 📫 Reach me through **[email](asatish@uwaterloo.ca)** or **[LinkedIn](https://www.linkedin.com/in/akshaysatish26205/)**
 
 - 🎸 For my music, check out **[AkkuB0Y](https://www.youtube.com/@akkub0y)**
 
