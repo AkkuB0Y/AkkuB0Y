@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Satish</h1>
-<h3 align="center">2A Computer Engineering Student @ UWaterloo and aspiring engineer!</h3>
+<h3 align="center">#A Computer Engineering Student @ UWaterloo and aspiring engineer!</h3>
 
-- 🔭 I'm currently working on [Vahana](https://github.com/Chris-Alexander-Pop/rideshare-platform-backend)
+- 🔭 I'm currently working on [IKnowASpot](https://github.com/AkkuB0Y/IKnowASpot)
 
-- 🌱 I’m currently learning **the fundamentals of electronic circuits, computer architecture and calc III** as a 2nd year student!
+- 🌱 I'll be learning about **real-time operating systems, digital hardware systems and communication systems** as a 3rd year student this winter!
 
-- ⚙️ I'm a part of the autonomy team @ WARG, [Waterloo's Aerial Robotics Group](https://www.uwarg.com),
-
-- 👨‍💻 Check out my website [here](https://akshaysatish.vercel.app)
+- 👨‍💻 Check out my website [here](https://cherry-mandarin-619.notion.site/Akshay-Satish-1d0b5ed4321b80018a45e84c1679948f)
 
 - 📫 Reach me through **[email](asatish@uwaterloo.ca)** or **[LinkedIn](https://www.linkedin.com/in/akshaysatish26205/)**
 
