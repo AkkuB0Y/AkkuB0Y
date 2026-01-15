@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay Satish</h1>
-<h3 align="center">#A Computer Engineering Student @ UWaterloo and aspiring engineer!</h3>
+<h3 align="center">A Computer Engineering Student @ UWaterloo and aspiring engineer!</h3>
 
 - 🔭 I'm currently working on [IKnowASpot](https://github.com/AkkuB0Y/IKnowASpot)
 
-- 🌱 I'll be learning about **real-time operating systems, digital hardware systems and communication systems** as a 3rd year student this winter!
+- 🌱 I'm learning about **real-time operating systems, digital hardware systems and communication systems** as a 3rd year student this winter!
 
 - 👨‍💻 Check out my website [here](https://cherry-mandarin-619.notion.site/Akshay-Satish-1d0b5ed4321b80018a45e84c1679948f)
 
